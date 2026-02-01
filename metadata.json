@@ -1,0 +1,8 @@
+{
+  "name": "Vision Assistant",
+  "description": "A real-time vision assistant for visually impaired users using Computer Vision and Voice Guidance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
